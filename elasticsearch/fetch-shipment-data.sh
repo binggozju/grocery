@@ -93,8 +93,8 @@ echo "
         \"url\" : \"jdbc:mysql://columbu007tmstest.mysql.rds.aliyuncs.com/weishop\",
         \"statefile\" : \"statefile.json\",
         \"schedule\" : \"0 0/30 0-23 ? * *\",
-        \"user\" : \"columbu\",
-        \"password\" : \"G0Br7tNVzAdtKp45\",
+        \"user\" : \"xxxxxx\",
+        \"password\" : \"xxxxx\",
         \"sql\" : [{
 				\"statement\": \"$*\",
 				\"parameter\": [\"\$metrics.lastexecutionstart\", \"\$metrics.lastexecutionstart\"]}
