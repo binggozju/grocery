@@ -1,0 +1,5 @@
+*.pyc
+config/account_conf.py
+
+reports/*
+logs/*
